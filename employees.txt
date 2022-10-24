@@ -1,3 +1,4 @@
 Jeff, Receptionist
 Marta, Clerk
 Bill, Cashier
+Kayla, HR

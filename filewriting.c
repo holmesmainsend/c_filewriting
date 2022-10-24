@@ -2,9 +2,9 @@
 #include <stdlib.h>
 
 int main() {
-    FILE *fPointer = fopen("employees.txt", "w");
+    FILE *fPointer = fopen("employees.txt", "a");
 
-    fprintf(fPointer, "Jeff, Receptionist\nMarta, Clerk\nBill, Cashier\n");
+    fprintf(fPointer, "Kayla, HR");
 
     fclose(fPointer);
     return 0;
